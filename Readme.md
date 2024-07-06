@@ -26,9 +26,7 @@
 
 <div style="padding-left:50px; padding-right:50px;">
 
-<center>
-    <image src="./assets/teaser.png" style="width: 600px">
-</center>
+<p align="center"><image src="./assets/teaser.png" style="width: 600px"></p>
 
 We offer a novel approach to image composition, which integrates multiple input images into a single, coherent image. Rather than concentrating on specific use cases such as appearance editing (image harmonization) or semantic editing (semantic image composition), we showcase the potential of utilizing the powerful generative prior inherent in large-scale pre-trained diffusion models to accomplish generic image composition applicable to both scenarios.
 
@@ -38,9 +36,7 @@ Extensive experiments validate the superiority of our approach in achieving gene
 
 ## Method
 
-<center>
-    <image src="./assets/method_overview.png" style="width: 800px">
-</center>
+<p align="center"><image src="./assets/method_overview.png" style="width: 800px"></p>
 
 FreeCompose overview. Our FreeCompose pipeline consists of three phases: object removal, image harmonization, and semantic image composition. In each phase, the pipeline takes an input image and two text prompts to calculate the loss. In the object removal phase, an additional mask is required to select K, V values. In the semantic image composition phase, text prompts can be replaced by other formats, and an additional K, V replacement is implemented for identity consistency.
 
@@ -48,27 +44,19 @@ FreeCompose overview. Our FreeCompose pipeline consists of three phases: object 
 
 ### Object Removal
 
-<center>
-    <image src="./assets/removal_res.png" style="width: 800px">
-</center>
+<p align="center"><image src="./assets/removal_res.png" style="width: 800px"></p>
 
 ### Imgae Harmonization
 
-<center>
-    <image src="./assets/harmonization_res.png" style="width: 800px">
-</center>
+<p align="center"><image src="./assets/harmonization_res.png" style="width: 800px"></p>
 
 ### Semantic Image Composition
 
-<center>
-    <image src="./assets/composition_res.png" style="width: 800px">
-</center>
+<p align="center"><image src="./assets/composition_res.png" style="width: 800px"></p>
 
 ### SDXL Plug-and-Play
 
-<center>
-    <image src="./assets/sdxl.png" style="width: 800px">
-</center>
+<p align="center"><image src="./assets/sdxl.png" style="width: 800px"></p>
 
 ## Citing
 
