@@ -4,7 +4,7 @@
     ·
     <a href="https://github.com/encounter1997"><strong>Wen Wang*</strong></a>
     ·
-    <a href="https://github.com/LeoYuan0111"><strong>Zhen Yang</strong></a>
+    <a href="https://zhenyangcs.github.io/"><strong>Zhen Yang</strong></a>
     ·
     <a href="https://github.com/LeoYuan0111"><strong>Zeqing Yuan</strong></a>
     ·
