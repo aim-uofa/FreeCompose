@@ -62,13 +62,13 @@ FreeCompose overview. Our FreeCompose pipeline consists of three phases: object 
 
 If you find our work useful, please consider citing:
 
-<!-- ```BibTeX
-@article{AutoStory,
-  title={AutoStory: Generating Diverse Storytelling Images with Minimal Human Effort},
-  author={Wang, Wen and Zhao, Canyu and Chen, Hao and Chen, Zhekai and Zheng, Kecheng and Shen, Chunhua},
-  publisher={arXiv preprint arXiv:2311.11243},
-  year={2023},
+```
+@article{FreeCompose,
+  title={FreeCompose: Generic Zero-Shot Image Composition with Diffusion Prior},
+  author={Chen, Zhekai and Wang, Wen and Yang, Zhen and Yuan, Zeqing and Chen, Hao and Shen, Chunhua},
+  journal={arXiv preprint arXiv:2407.04947},
+  year={2024}
 }
-``` -->
+```
 
 </div>
