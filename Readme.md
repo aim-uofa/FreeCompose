@@ -1,4 +1,4 @@
-<h2 align="center">FreeCompose: <br> Generating Diverse Storytelling Images with Minimal Human Effort</h2>
+<h2 align="center">FreeCompose: <br> Generic Zero-Shot Image Composition with Diffusion Prior</h2>
   <p align="center">
     <a href="https://github.com/Aziily"><strong>Zhekai Chen*</strong></a>
     ·
