@@ -58,6 +58,14 @@ FreeCompose overview. Our FreeCompose pipeline consists of three phases: object 
 
 <p align="center"><image src="./assets/sdxl.png" style="width: 800px"></p>
 
+## License
+
+For non-commercial academic use, this project is licensed under [the 2-clause BSD License](https://opensource.org/license/bsd-2-clause). 
+For commercial use, please contact [Chunhua Shen](chhshen@gmail.com).
+
+
+
+
 ## Citing
 
 If you find our work useful, please consider citing:
