@@ -58,13 +58,43 @@ FreeCompose overview. Our FreeCompose pipeline consists of three phases: object 
 
 <p align="center"><image src="./assets/sdxl.png" style="width: 800px"></p>
 
+## Code Structure
+
+- `assets/`: contains the data for cases.
+- `eval/`: contains the evaluation code, including `fid`, `lpips` and so on.
+- `utils/`: contains the utility functions for the project.
+- `main.ipynb`: the main notebook for the project.
+
+## Environment Setup
+
+```bash
+conda create -n freecompose python=3.9.11
+conda activate freecompose
+pip install -r requirements.txt
+```
+
+Note: Because of proxy reason, we use *[hf-mirror]()* as the mirror for huggingface. However, maybe you need to use the original mirror. Then, comment or delete the following line in some files:
+
+```python
+os.environ['HF_ENDPOINT'] = "https://hf-mirror.com"
+```
+
+## Usage
+
+We provide a notebook for the project. You can run the notebook to see the results of the project.
+
+## Acknowledgement
+
+We would like to thank the authors of the following repositories for their great work:
+
+- [Prompt-2-prompt](https://github.com/google/prompt-to-prompt)
+- [Controlcom](https://github.com/bcmi/ControlCom-Image-Composition)
+- [Paint-by-Example](https://github.com/Fantasy-Studio/Paint-by-Example)
+
 ## License
 
-For non-commercial academic use, this project is licensed under [the 2-clause BSD License](https://opensource.org/license/bsd-2-clause). 
+For non-commercial academic use, this project is licensed under [the 2-clause BSD License](https://opensource.org/license/bsd-2-clause).
 For commercial use, please contact [Chunhua Shen](mailto:chhshen@gmail.com).
-
-
-
 
 ## Citing
 

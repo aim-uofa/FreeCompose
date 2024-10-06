@@ -1,0 +1,14 @@
+torch
+torchvision
+diffusers>=0.27.2
+transformers
+accelerate
+taming
+numpy
+Pillow
+opencv-python
+tqdm
+scipy
+scikit-learn
+scikit-image
+einops
