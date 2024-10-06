@@ -22,8 +22,6 @@
   </p>
 </p>
 
-<p align="center"><b>Code will be released soon!</b></p>
-
 <div style="padding-left:50px; padding-right:50px;">
 
 <p align="center"><image src="./assets/teaser.png" style="width: 600px"></p>
